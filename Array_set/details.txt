@@ -1,1 +1,2 @@
-PRACTICING DSA AND UNDERSTANDING ITS APPLICATION
+this is an array practice set to understand 
+how array works and learn to implement it
